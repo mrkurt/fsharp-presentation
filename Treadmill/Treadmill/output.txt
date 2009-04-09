@@ -1,0 +1,752 @@
+Started at 4/1/2008 12:41:17 PM
+0 Result received from thread 6: Did nothing!
+1 Result received from thread 6: Did nothing!
+2 An exception occurred on thread 6 - Attempted to divide by zero.
+3 Result received from thread 6: Did nothing!
+4 Result received from thread 6: Did nothing!
+5 Result received from thread 6: Did nothing!
+6 Result received from thread 6: Did nothing!
+7 An exception occurred on thread 6 - Attempted to divide by zero.
+8 Result received from thread 6: Did nothing!
+9 Result received from thread 6: Did nothing!
+10 Result received from thread 6: Did nothing!
+11 An exception occurred on thread 7 - Attempted to divide by zero.
+12 Result received from thread 6: Did nothing!
+13 An exception occurred on thread 6 - Attempted to divide by zero.
+14 Result received from thread 7: Did nothing!
+15 Result received from thread 6: Did nothing!
+16 Result received from thread 7: Did nothing!
+17 Result received from thread 6: Did nothing!
+18 Result received from thread 7: Did nothing!
+19 Result received from thread 6: Did nothing!
+20 Result received from thread 7: Did nothing!
+21 An exception occurred on thread 7 - Attempted to divide by zero.
+22 Result received from thread 6: Did nothing!
+23 An exception occurred on thread 6 - Attempted to divide by zero.
+24 Result received from thread 7: Did nothing!
+25 Result received from thread 6: Did nothing!
+26 Result received from thread 8: Did nothing!
+27 Result received from thread 7: Did nothing!
+28 Result received from thread 6: Did nothing!
+29 Result received from thread 8: Did nothing!
+30 Result received from thread 7: Did nothing!
+31 Result received from thread 6: Did nothing!
+32 Result received from thread 8: Did nothing!
+33 Result received from thread 7: Did nothing!
+34 An exception occurred on thread 7 - Attempted to divide by zero.
+35 An exception occurred on thread 8 - Attempted to divide by zero.
+36 Result received from thread 6: Did nothing!
+37 An exception occurred on thread 6 - Attempted to divide by zero.
+38 Result received from thread 7: Did nothing!
+39 Result received from thread 8: Did nothing!
+40 Result received from thread 6: Did nothing!
+41 Result received from thread 7: Did nothing!
+42 Result received from thread 8: Did nothing!
+43 Result received from thread 6: Did nothing!
+44 Result received from thread 9: Did nothing!
+45 Result received from thread 7: Did nothing!
+46 Result received from thread 8: Did nothing!
+47 An exception occurred on thread 9 - Attempted to divide by zero.
+48 Result received from thread 6: Did nothing!
+49 Result received from thread 7: Did nothing!
+50 Result received from thread 9: Did nothing!
+51 Result received from thread 8: Did nothing!
+52 An exception occurred on thread 7 - Attempted to divide by zero.
+53 An exception occurred on thread 8 - Attempted to divide by zero.
+54 Result received from thread 6: Did nothing!
+55 An exception occurred on thread 6 - Attempted to divide by zero.
+56 Result received from thread 9: Did nothing!
+57 Result received from thread 7: Did nothing!
+58 Result received from thread 8: Did nothing!
+59 Result received from thread 6: Did nothing!
+60 Result received from thread 7: Did nothing!
+61 Result received from thread 9: Did nothing!
+62 Result received from thread 8: Did nothing!
+63 Result received from thread 6: Did nothing!
+64 Result received from thread 7: Did nothing!
+65 Result received from thread 9: Did nothing!
+66 An exception occurred on thread 9 - Attempted to divide by zero.
+67 Result received from thread 8: Did nothing!
+68 Result received from thread 6: Did nothing!
+69 Result received from thread 8: Did nothing!
+70 Result received from thread 9: Did nothing!
+71 Result received from thread 7: Did nothing!
+72 An exception occurred on thread 7 - Attempted to divide by zero.
+73 An exception occurred on thread 8 - Attempted to divide by zero.
+74 Result received from thread 10: Did nothing!
+75 Result received from thread 6: Did nothing!
+76 An exception occurred on thread 6 - Attempted to divide by zero.
+77 Result received from thread 9: Did nothing!
+78 Result received from thread 8: Did nothing!
+79 Result received from thread 10: Did nothing!
+80 Result received from thread 7: Did nothing!
+81 Result received from thread 6: Did nothing!
+82 Result received from thread 7: Did nothing!
+83 Result received from thread 9: Did nothing!
+84 Result received from thread 8: Did nothing!
+85 Result received from thread 10: Did nothing!
+86 Result received from thread 6: Did nothing!
+87 Result received from thread 7: Did nothing!
+88 Result received from thread 9: Did nothing!
+89 Result received from thread 8: Did nothing!
+90 Result received from thread 10: Did nothing!
+91 An exception occurred on thread 9 - Attempted to divide by zero.
+92 An exception occurred on thread 10 - Attempted to divide by zero.
+93 Result received from thread 6: Did nothing!
+94 Result received from thread 7: Did nothing!
+95 Result received from thread 8: Did nothing!
+96 An exception occurred on thread 7 - Attempted to divide by zero.
+97 Result received from thread 9: Did nothing!
+98 An exception occurred on thread 8 - Attempted to divide by zero.
+99 Result received from thread 10: Did nothing!
+100 Result received from thread 6: Did nothing!
+101 An exception occurred on thread 6 - Attempted to divide by zero.
+102 Result received from thread 8: Did nothing!
+103 Result received from thread 9: Did nothing!
+104 Result received from thread 10: Did nothing!
+105 Result received from thread 7: Did nothing!
+106 Result received from thread 11: Did nothing!
+107 Result received from thread 6: Did nothing!
+108 Result received from thread 9: Did nothing!
+109 Result received from thread 7: Did nothing!
+110 Result received from thread 11: Did nothing!
+111 An exception occurred on thread 11 - Attempted to divide by zero.
+112 Result received from thread 8: Did nothing!
+113 Result received from thread 10: Did nothing!
+114 Result received from thread 6: Did nothing!
+115 Result received from thread 8: Did nothing!
+116 Result received from thread 7: Did nothing!
+117 Result received from thread 9: Did nothing!
+118 An exception occurred on thread 9 - Attempted to divide by zero.
+119 Result received from thread 11: Did nothing!
+120 Result received from thread 10: Did nothing!
+121 An exception occurred on thread 10 - Attempted to divide by zero.
+122 Result received from thread 6: Did nothing!
+123 Result received from thread 8: Did nothing!
+124 Result received from thread 7: Did nothing!
+125 An exception occurred on thread 8 - Attempted to divide by zero.
+126 An exception occurred on thread 7 - Attempted to divide by zero.
+127 Result received from thread 9: Did nothing!
+128 Result received from thread 10: Did nothing!
+129 Result received from thread 11: Did nothing!
+130 Result received from thread 6: Did nothing!
+131 An exception occurred on thread 6 - Attempted to divide by zero.
+132 Result received from thread 7: Did nothing!
+133 Result received from thread 9: Did nothing!
+134 Result received from thread 8: Did nothing!
+135 An exception occurred on thread 12 - Attempted to divide by zero.
+136 Result received from thread 10: Did nothing!
+137 Result received from thread 11: Did nothing!
+138 Result received from thread 6: Did nothing!
+139 Result received from thread 8: Did nothing!
+140 Result received from thread 12: Did nothing!
+141 Result received from thread 9: Did nothing!
+142 Result received from thread 7: Did nothing!
+143 Result received from thread 10: Did nothing!
+144 Result received from thread 11: Did nothing!
+145 An exception occurred on thread 11 - Attempted to divide by zero.
+146 Result received from thread 6: Did nothing!
+147 Result received from thread 8: Did nothing!
+148 Result received from thread 9: Did nothing!
+149 Result received from thread 12: Did nothing!
+150 Result received from thread 7: Did nothing!
+151 An exception occurred on thread 9 - Attempted to divide by zero.
+152 Result received from thread 10: Did nothing!
+153 An exception occurred on thread 10 - Attempted to divide by zero.
+154 Result received from thread 11: Did nothing!
+155 Result received from thread 6: Did nothing!
+156 Result received from thread 9: Did nothing!
+157 Result received from thread 8: Did nothing!
+158 Result received from thread 7: Did nothing!
+159 An exception occurred on thread 8 - Attempted to divide by zero.
+160 An exception occurred on thread 7 - Attempted to divide by zero.
+161 Result received from thread 12: Did nothing!
+162 Result received from thread 10: Did nothing!
+163 Result received from thread 11: Did nothing!
+164 Result received from thread 6: Did nothing!
+165 An exception occurred on thread 6 - Attempted to divide by zero.
+166 Result received from thread 7: Did nothing!
+167 Result received from thread 9: Did nothing!
+168 Result received from thread 8: Did nothing!
+169 Result received from thread 12: Did nothing!
+170 Result received from thread 11: Did nothing!
+171 Result received from thread 10: Did nothing!
+172 An exception occurred on thread 12 - Attempted to divide by zero.
+173 Result received from thread 6: Did nothing!
+174 Result received from thread 7: Did nothing!
+175 Result received from thread 9: Did nothing!
+176 Result received from thread 8: Did nothing!
+177 Result received from thread 10: Did nothing!
+178 Result received from thread 11: Did nothing!
+179 Result received from thread 12: Did nothing!
+180 An exception occurred on thread 11 - Attempted to divide by zero.
+181 Result received from thread 6: Did nothing!
+182 Result received from thread 8: Did nothing!
+183 Result received from thread 9: Did nothing!
+184 Result received from thread 7: Did nothing!
+185 Result received from thread 13: Did nothing!
+186 An exception occurred on thread 9 - Attempted to divide by zero.
+187 Result received from thread 12: Did nothing!
+188 Result received from thread 11: Did nothing!
+189 Result received from thread 10: Did nothing!
+190 An exception occurred on thread 10 - Attempted to divide by zero.
+191 Result received from thread 6: Did nothing!
+192 Result received from thread 8: Did nothing!
+193 Result received from thread 7: Did nothing!
+194 An exception occurred on thread 7 - Attempted to divide by zero.
+195 An exception occurred on thread 8 - Attempted to divide by zero.
+196 Result received from thread 9: Did nothing!
+197 Result received from thread 13: Did nothing!
+198 Result received from thread 12: Did nothing!
+199 Result received from thread 11: Did nothing!
+200 Result received from thread 10: Did nothing!
+201 Result received from thread 6: Did nothing!
+202 An exception occurred on thread 6 - Attempted to divide by zero.
+203 Result received from thread 8: Did nothing!
+204 Result received from thread 9: Did nothing!
+205 Result received from thread 7: Did nothing!
+206 Result received from thread 13: Did nothing!
+207 An exception occurred on thread 13 - Attempted to divide by zero.
+208 Result received from thread 10: Did nothing!
+209 Result received from thread 11: Did nothing!
+210 Result received from thread 12: Did nothing!
+211 An exception occurred on thread 12 - Attempted to divide by zero.
+212 Result received from thread 6: Did nothing!
+213 Result received from thread 8: Did nothing!
+214 Result received from thread 7: Did nothing!
+215 Result received from thread 9: Did nothing!
+216 Result received from thread 13: Did nothing!
+217 Result received from thread 12: Did nothing!
+218 Result received from thread 11: Did nothing!
+219 An exception occurred on thread 11 - Attempted to divide by zero.
+220 Result received from thread 10: Did nothing!
+221 Result received from thread 6: Did nothing!
+222 Result received from thread 8: Did nothing!
+223 Result received from thread 10: Did nothing!
+224 An exception occurred on thread 10 - Attempted to divide by zero.
+225 Result received from thread 12: Did nothing!
+226 Result received from thread 9: Did nothing!
+227 An exception occurred on thread 9 - Attempted to divide by zero.
+228 Result received from thread 7: Did nothing!
+229 Result received from thread 13: Did nothing!
+230 Result received from thread 11: Did nothing!
+231 Result received from thread 6: Did nothing!
+232 Result received from thread 8: Did nothing!
+233 An exception occurred on thread 8 - Attempted to divide by zero.
+234 Result received from thread 12: Did nothing!
+235 Result received from thread 10: Did nothing!
+236 Result received from thread 7: Did nothing!
+237 An exception occurred on thread 7 - Attempted to divide by zero.
+238 Result received from thread 9: Did nothing!
+239 Result received from thread 11: Did nothing!
+240 Result received from thread 13: Did nothing!
+241 Result received from thread 6: Did nothing!
+242 An exception occurred on thread 6 - Attempted to divide by zero.
+243 Result received from thread 8: Did nothing!
+244 Result received from thread 10: Did nothing!
+245 Result received from thread 12: Did nothing!
+246 An exception occurred on thread 12 - Attempted to divide by zero.
+247 Result received from thread 7: Did nothing!
+248 Result received from thread 9: Did nothing!
+249 Result received from thread 11: Did nothing!
+250 Result received from thread 13: Did nothing!
+251 An exception occurred on thread 13 - Attempted to divide by zero.
+252 Result received from thread 6: Did nothing!
+253 Result received from thread 8: Did nothing!
+254 Result received from thread 12: Did nothing!
+255 Result received from thread 10: Did nothing!
+256 Result received from thread 9: Did nothing!
+257 Result received from thread 7: Did nothing!
+258 Result received from thread 13: Did nothing!
+259 Result received from thread 11: Did nothing!
+260 An exception occurred on thread 11 - Attempted to divide by zero.
+261 Result received from thread 6: Did nothing!
+262 Result received from thread 8: Did nothing!
+263 Result received from thread 12: Did nothing!
+264 Result received from thread 10: Did nothing!
+265 An exception occurred on thread 10 - Attempted to divide by zero.
+266 Result received from thread 9: Did nothing!
+267 An exception occurred on thread 9 - Attempted to divide by zero.
+268 Result received from thread 7: Did nothing!
+269 Result received from thread 13: Did nothing!
+270 Result received from thread 11: Did nothing!
+271 Result received from thread 6: Did nothing!
+272 Result received from thread 8: Did nothing!
+273 An exception occurred on thread 8 - Attempted to divide by zero.
+274 Result received from thread 10: Did nothing!
+275 Result received from thread 12: Did nothing!
+276 Result received from thread 7: Did nothing!
+277 An exception occurred on thread 7 - Attempted to divide by zero.
+278 Result received from thread 9: Did nothing!
+279 Result received from thread 11: Did nothing!
+280 Result received from thread 13: Did nothing!
+281 Result received from thread 6: Did nothing!
+282 An exception occurred on thread 6 - Attempted to divide by zero.
+283 Result received from thread 8: Did nothing!
+284 Result received from thread 10: Did nothing!
+285 Result received from thread 12: Did nothing!
+286 An exception occurred on thread 12 - Attempted to divide by zero.
+287 Result received from thread 9: Did nothing!
+288 Result received from thread 7: Did nothing!
+289 Result received from thread 13: Did nothing!
+290 An exception occurred on thread 13 - Attempted to divide by zero.
+291 Result received from thread 11: Did nothing!
+292 Result received from thread 6: Did nothing!
+293 Result received from thread 8: Did nothing!
+294 Result received from thread 10: Did nothing!
+295 Result received from thread 12: Did nothing!
+296 Result received from thread 9: Did nothing!
+297 Result received from thread 7: Did nothing!
+298 Result received from thread 13: Did nothing!
+299 Result received from thread 11: Did nothing!
+300 An exception occurred on thread 11 - Attempted to divide by zero.
+301 Result received from thread 6: Did nothing!
+302 Result received from thread 8: Did nothing!
+303 Result received from thread 12: Did nothing!
+304 Result received from thread 10: Did nothing!
+305 An exception occurred on thread 10 - Attempted to divide by zero.
+306 Result received from thread 7: Did nothing!
+307 Result received from thread 9: Did nothing!
+308 An exception occurred on thread 9 - Attempted to divide by zero.
+309 Result received from thread 11: Did nothing!
+310 Result received from thread 13: Did nothing!
+311 Result received from thread 6: Did nothing!
+312 Result received from thread 8: Did nothing!
+313 An exception occurred on thread 8 - Attempted to divide by zero.
+314 Result received from thread 10: Did nothing!
+315 Result received from thread 12: Did nothing!
+316 Result received from thread 9: Did nothing!
+317 Result received from thread 11: Did nothing!
+318 Result received from thread 13: Did nothing!
+319 Result received from thread 7: Did nothing!
+320 An exception occurred on thread 7 - Attempted to divide by zero.
+321 Result received from thread 6: Did nothing!
+322 An exception occurred on thread 6 - Attempted to divide by zero.
+323 Result received from thread 8: Did nothing!
+324 Result received from thread 12: Did nothing!
+325 Result received from thread 10: Did nothing!
+326 An exception occurred on thread 12 - Attempted to divide by zero.
+327 Result received from thread 7: Did nothing!
+328 Result received from thread 9: Did nothing!
+329 Result received from thread 13: Did nothing!
+330 An exception occurred on thread 13 - Attempted to divide by zero.
+331 Result received from thread 11: Did nothing!
+332 Result received from thread 6: Did nothing!
+333 Result received from thread 8: Did nothing!
+334 Result received from thread 10: Did nothing!
+335 Result received from thread 12: Did nothing!
+336 Result received from thread 9: Did nothing!
+337 Result received from thread 7: Did nothing!
+338 Result received from thread 11: Did nothing!
+339 An exception occurred on thread 11 - Attempted to divide by zero.
+340 Result received from thread 13: Did nothing!
+341 Result received from thread 6: Did nothing!
+342 Result received from thread 8: Did nothing!
+343 Result received from thread 10: Did nothing!
+344 Result received from thread 12: Did nothing!
+345 An exception occurred on thread 10 - Attempted to divide by zero.
+346 Result received from thread 7: Did nothing!
+347 Result received from thread 11: Did nothing!
+348 Result received from thread 9: Did nothing!
+349 Result received from thread 13: Did nothing!
+350 An exception occurred on thread 9 - Attempted to divide by zero.
+351 Result received from thread 6: Did nothing!
+352 Result received from thread 8: Did nothing!
+353 An exception occurred on thread 8 - Attempted to divide by zero.
+354 Result received from thread 10: Did nothing!
+355 Result received from thread 12: Did nothing!
+356 Result received from thread 9: Did nothing!
+357 Result received from thread 7: Did nothing!
+358 An exception occurred on thread 7 - Attempted to divide by zero.
+359 Result received from thread 13: Did nothing!
+360 Result received from thread 11: Did nothing!
+361 Result received from thread 6: Did nothing!
+362 An exception occurred on thread 6 - Attempted to divide by zero.
+363 Result received from thread 8: Did nothing!
+364 Result received from thread 10: Did nothing!
+365 Result received from thread 12: Did nothing!
+366 An exception occurred on thread 12 - Attempted to divide by zero.
+367 Result received from thread 9: Did nothing!
+368 Result received from thread 7: Did nothing!
+369 Result received from thread 13: Did nothing!
+370 Result received from thread 11: Did nothing!
+371 An exception occurred on thread 13 - Attempted to divide by zero.
+372 Result received from thread 6: Did nothing!
+373 Result received from thread 12: Did nothing!
+374 Result received from thread 8: Did nothing!
+375 Result received from thread 10: Did nothing!
+376 Result received from thread 7: Did nothing!
+377 Result received from thread 11: Did nothing!
+378 An exception occurred on thread 11 - Attempted to divide by zero.
+379 Result received from thread 13: Did nothing!
+380 Result received from thread 9: Did nothing!
+381 Result received from thread 6: Did nothing!
+382 Result received from thread 8: Did nothing!
+383 Result received from thread 10: Did nothing!
+384 An exception occurred on thread 10 - Attempted to divide by zero.
+385 Result received from thread 12: Did nothing!
+386 Result received from thread 9: Did nothing!
+387 Result received from thread 7: Did nothing!
+388 An exception occurred on thread 9 - Attempted to divide by zero.
+389 Result received from thread 13: Did nothing!
+390 Result received from thread 11: Did nothing!
+391 Result received from thread 6: Did nothing!
+392 Result received from thread 8: Did nothing!
+393 An exception occurred on thread 8 - Attempted to divide by zero.
+394 Result received from thread 12: Did nothing!
+395 Result received from thread 10: Did nothing!
+396 Result received from thread 9: Did nothing!
+397 Result received from thread 7: Did nothing!
+398 An exception occurred on thread 7 - Attempted to divide by zero.
+399 Result received from thread 11: Did nothing!
+400 Result received from thread 13: Did nothing!
+401 Result received from thread 6: Did nothing!
+402 An exception occurred on thread 6 - Attempted to divide by zero.
+403 Result received from thread 8: Did nothing!
+404 Result received from thread 10: Did nothing!
+405 Result received from thread 12: Did nothing!
+406 An exception occurred on thread 12 - Attempted to divide by zero.
+407 Result received from thread 7: Did nothing!
+408 Result received from thread 9: Did nothing!
+409 Result received from thread 13: Did nothing!
+410 An exception occurred on thread 13 - Attempted to divide by zero.
+411 Result received from thread 11: Did nothing!
+412 Result received from thread 6: Did nothing!
+413 Result received from thread 8: Did nothing!
+414 Result received from thread 12: Did nothing!
+415 Result received from thread 10: Did nothing!
+416 Result received from thread 11: Did nothing!
+417 An exception occurred on thread 11 - Attempted to divide by zero.
+418 Result received from thread 9: Did nothing!
+419 Result received from thread 7: Did nothing!
+420 Result received from thread 13: Did nothing!
+421 Result received from thread 6: Did nothing!
+422 Result received from thread 8: Did nothing!
+423 Result received from thread 10: Did nothing!
+424 Result received from thread 12: Did nothing!
+425 An exception occurred on thread 10 - Attempted to divide by zero.
+426 Result received from thread 7: Did nothing!
+427 Result received from thread 9: Did nothing!
+428 An exception occurred on thread 9 - Attempted to divide by zero.
+429 Result received from thread 13: Did nothing!
+430 Result received from thread 11: Did nothing!
+431 Result received from thread 6: Did nothing!
+432 Result received from thread 10: Did nothing!
+433 Result received from thread 8: Did nothing!
+434 An exception occurred on thread 8 - Attempted to divide by zero.
+435 Result received from thread 9: Did nothing!
+436 Result received from thread 7: Did nothing!
+437 An exception occurred on thread 7 - Attempted to divide by zero.
+438 Result received from thread 11: Did nothing!
+439 Result received from thread 13: Did nothing!
+440 Result received from thread 12: Did nothing!
+441 Result received from thread 6: Did nothing!
+442 An exception occurred on thread 6 - Attempted to divide by zero.
+443 Result received from thread 10: Did nothing!
+444 Result received from thread 8: Did nothing!
+445 Result received from thread 12: Did nothing!
+446 An exception occurred on thread 12 - Attempted to divide by zero.
+447 Result received from thread 7: Did nothing!
+448 Result received from thread 9: Did nothing!
+449 Result received from thread 13: Did nothing!
+450 An exception occurred on thread 13 - Attempted to divide by zero.
+451 Result received from thread 11: Did nothing!
+452 Result received from thread 6: Did nothing!
+453 Result received from thread 10: Did nothing!
+454 Result received from thread 9: Did nothing!
+455 Result received from thread 8: Did nothing!
+456 Result received from thread 7: Did nothing!
+457 Result received from thread 12: Did nothing!
+458 Result received from thread 13: Did nothing!
+459 Result received from thread 11: Did nothing!
+460 An exception occurred on thread 11 - Attempted to divide by zero.
+461 Result received from thread 6: Did nothing!
+462 Result received from thread 10: Did nothing!
+463 An exception occurred on thread 10 - Attempted to divide by zero.
+464 Result received from thread 7: Did nothing!
+465 Result received from thread 9: Did nothing!
+466 Result received from thread 13: Did nothing!
+467 Result received from thread 11: Did nothing!
+468 An exception occurred on thread 9 - Attempted to divide by zero.
+469 Result received from thread 8: Did nothing!
+470 Result received from thread 12: Did nothing!
+471 Result received from thread 6: Did nothing!
+472 Result received from thread 10: Did nothing!
+473 Result received from thread 8: Did nothing!
+474 Result received from thread 12: Did nothing!
+475 Result received from thread 9: Did nothing!
+476 Result received from thread 7: Did nothing!
+477 An exception occurred on thread 8 - Attempted to divide by zero.
+478 Result received from thread 11: Did nothing!
+479 An exception occurred on thread 7 - Attempted to divide by zero.
+480 Result received from thread 13: Did nothing!
+481 Result received from thread 6: Did nothing!
+482 An exception occurred on thread 6 - Attempted to divide by zero.
+483 Result received from thread 10: Did nothing!
+484 Result received from thread 8: Did nothing!
+485 Result received from thread 7: Did nothing!
+486 Result received from thread 12: Did nothing!
+487 Result received from thread 9: Did nothing!
+488 An exception occurred on thread 12 - Attempted to divide by zero.
+489 Result received from thread 13: Did nothing!
+490 An exception occurred on thread 13 - Attempted to divide by zero.
+491 Result received from thread 11: Did nothing!
+492 Result received from thread 6: Did nothing!
+493 Result received from thread 10: Did nothing!
+494 Result received from thread 9: Did nothing!
+495 Result received from thread 8: Did nothing!
+496 Result received from thread 12: Did nothing!
+497 Result received from thread 7: Did nothing!
+498 Result received from thread 13: Did nothing!
+499 Result received from thread 11: Did nothing!
+500 An exception occurred on thread 11 - Attempted to divide by zero.
+501 Result received from thread 6: Did nothing!
+502 Result received from thread 10: Did nothing!
+503 An exception occurred on thread 10 - Attempted to divide by zero.
+504 Result received from thread 8: Did nothing!
+505 Result received from thread 12: Did nothing!
+506 Result received from thread 7: Did nothing!
+507 Result received from thread 9: Did nothing!
+508 Result received from thread 13: Did nothing!
+509 Result received from thread 11: Did nothing!
+510 An exception occurred on thread 9 - Attempted to divide by zero.
+511 Result received from thread 6: Did nothing!
+512 Result received from thread 10: Did nothing!
+513 Result received from thread 8: Did nothing!
+514 Result received from thread 9: Did nothing!
+515 Result received from thread 7: Did nothing!
+516 An exception occurred on thread 8 - Attempted to divide by zero.
+517 An exception occurred on thread 7 - Attempted to divide by zero.
+518 Result received from thread 11: Did nothing!
+519 Result received from thread 13: Did nothing!
+520 Result received from thread 12: Did nothing!
+521 Result received from thread 6: Did nothing!
+522 An exception occurred on thread 6 - Attempted to divide by zero.
+523 Result received from thread 10: Did nothing!
+524 Result received from thread 7: Did nothing!
+525 Result received from thread 8: Did nothing!
+526 Result received from thread 12: Did nothing!
+527 Result received from thread 9: Did nothing!
+528 Result received from thread 13: Did nothing!
+529 An exception occurred on thread 12 - Attempted to divide by zero.
+530 An exception occurred on thread 13 - Attempted to divide by zero.
+531 Result received from thread 11: Did nothing!
+532 Result received from thread 6: Did nothing!
+533 Result received from thread 10: Did nothing!
+534 Result received from thread 7: Did nothing!
+535 Result received from thread 8: Did nothing!
+536 Result received from thread 12: Did nothing!
+537 Result received from thread 9: Did nothing!
+538 Result received from thread 13: Did nothing!
+539 Result received from thread 11: Did nothing!
+540 An exception occurred on thread 11 - Attempted to divide by zero.
+541 Result received from thread 10: Did nothing!
+542 An exception occurred on thread 10 - Attempted to divide by zero.
+543 Result received from thread 8: Did nothing!
+544 Result received from thread 12: Did nothing!
+545 Result received from thread 9: Did nothing!
+546 Result received from thread 7: Did nothing!
+547 Result received from thread 13: Did nothing!
+548 Result received from thread 11: Did nothing!
+549 An exception occurred on thread 9 - Attempted to divide by zero.
+550 Result received from thread 10: Did nothing!
+551 Result received from thread 9: Did nothing!
+552 Result received from thread 8: Did nothing!
+553 Result received from thread 7: Did nothing!
+554 An exception occurred on thread 8 - Attempted to divide by zero.
+555 An exception occurred on thread 7 - Attempted to divide by zero.
+556 Result received from thread 12: Did nothing!
+557 Result received from thread 11: Did nothing!
+558 Result received from thread 13: Did nothing!
+559 Result received from thread 10: Did nothing!
+560 Result received from thread 8: Did nothing!
+561 Result received from thread 12: Did nothing!
+562 Result received from thread 7: Did nothing!
+563 Result received from thread 9: Did nothing!
+564 Result received from thread 13: Did nothing!
+565 An exception occurred on thread 12 - Attempted to divide by zero.
+566 An exception occurred on thread 13 - Attempted to divide by zero.
+567 Result received from thread 11: Did nothing!
+568 Result received from thread 10: Did nothing!
+569 Result received from thread 8: Did nothing!
+570 Result received from thread 12: Did nothing!
+571 Result received from thread 7: Did nothing!
+572 Result received from thread 9: Did nothing!
+573 Result received from thread 13: Did nothing!
+574 Result received from thread 11: Did nothing!
+575 An exception occurred on thread 11 - Attempted to divide by zero.
+576 Result received from thread 10: Did nothing!
+577 An exception occurred on thread 10 - Attempted to divide by zero.
+578 Result received from thread 8: Did nothing!
+579 Result received from thread 12: Did nothing!
+580 Result received from thread 7: Did nothing!
+581 Result received from thread 9: Did nothing!
+582 Result received from thread 13: Did nothing!
+583 Result received from thread 11: Did nothing!
+584 An exception occurred on thread 9 - Attempted to divide by zero.
+585 Result received from thread 10: Did nothing!
+586 Result received from thread 8: Did nothing!
+587 Result received from thread 9: Did nothing!
+588 Result received from thread 7: Did nothing!
+589 An exception occurred on thread 8 - Attempted to divide by zero.
+590 Result received from thread 12: Did nothing!
+591 An exception occurred on thread 7 - Attempted to divide by zero.
+592 Result received from thread 11: Did nothing!
+593 Result received from thread 13: Did nothing!
+594 Result received from thread 10: Did nothing!
+595 Result received from thread 7: Did nothing!
+596 Result received from thread 8: Did nothing!
+597 Result received from thread 12: Did nothing!
+598 Result received from thread 9: Did nothing!
+599 Result received from thread 11: Did nothing!
+600 Result received from thread 13: Did nothing!
+601 An exception occurred on thread 13 - Attempted to divide by zero.
+602 An exception occurred on thread 12 - Attempted to divide by zero.
+603 Result received from thread 10: Did nothing!
+604 Result received from thread 9: Did nothing!
+605 Result received from thread 8: Did nothing!
+606 Result received from thread 12: Did nothing!
+607 Result received from thread 7: Did nothing!
+608 Result received from thread 13: Did nothing!
+609 Result received from thread 11: Did nothing!
+610 An exception occurred on thread 11 - Attempted to divide by zero.
+611 Result received from thread 10: Did nothing!
+612 An exception occurred on thread 10 - Attempted to divide by zero.
+613 Result received from thread 8: Did nothing!
+614 Result received from thread 12: Did nothing!
+615 Result received from thread 7: Did nothing!
+616 Result received from thread 9: Did nothing!
+617 An exception occurred on thread 9 - Attempted to divide by zero.
+618 Result received from thread 13: Did nothing!
+619 Result received from thread 11: Did nothing!
+620 Result received from thread 10: Did nothing!
+621 Result received from thread 8: Did nothing!
+622 Result received from thread 9: Did nothing!
+623 An exception occurred on thread 8 - Attempted to divide by zero.
+624 Result received from thread 12: Did nothing!
+625 Result received from thread 13: Did nothing!
+626 Result received from thread 11: Did nothing!
+627 Result received from thread 10: Did nothing!
+628 Result received from thread 8: Did nothing!
+629 Result received from thread 9: Did nothing!
+630 Result received from thread 11: Did nothing!
+631 Result received from thread 12: Did nothing!
+632 An exception occurred on thread 12 - Attempted to divide by zero.
+633 Result received from thread 13: Did nothing!
+634 An exception occurred on thread 13 - Attempted to divide by zero.
+635 Result received from thread 10: Did nothing!
+636 Result received from thread 9: Did nothing!
+637 Result received from thread 8: Did nothing!
+638 Result received from thread 12: Did nothing!
+639 Result received from thread 13: Did nothing!
+640 Result received from thread 11: Did nothing!
+641 An exception occurred on thread 11 - Attempted to divide by zero.
+642 Result received from thread 10: Did nothing!
+643 An exception occurred on thread 10 - Attempted to divide by zero.
+644 Result received from thread 9: Did nothing!
+645 Result received from thread 8: Did nothing!
+646 An exception occurred on thread 9 - Attempted to divide by zero.
+647 Result received from thread 11: Did nothing!
+648 Result received from thread 12: Did nothing!
+649 Result received from thread 13: Did nothing!
+650 Result received from thread 10: Did nothing!
+651 Result received from thread 8: Did nothing!
+652 Result received from thread 9: Did nothing!
+653 An exception occurred on thread 8 - Attempted to divide by zero.
+654 Result received from thread 12: Did nothing!
+655 Result received from thread 11: Did nothing!
+656 Result received from thread 13: Did nothing!
+657 Result received from thread 10: Did nothing!
+658 Result received from thread 9: Did nothing!
+659 Result received from thread 13: Did nothing!
+660 Result received from thread 11: Did nothing!
+661 An exception occurred on thread 13 - Attempted to divide by zero.
+662 Result received from thread 12: Did nothing!
+663 An exception occurred on thread 12 - Attempted to divide by zero.
+664 Result received from thread 10: Did nothing!
+665 Result received from thread 9: Did nothing!
+666 Result received from thread 13: Did nothing!
+667 Result received from thread 11: Did nothing!
+668 Result received from thread 12: Did nothing!
+669 An exception occurred on thread 11 - Attempted to divide by zero.
+670 Result received from thread 10: Did nothing!
+671 An exception occurred on thread 10 - Attempted to divide by zero.
+672 Result received from thread 9: Did nothing!
+673 An exception occurred on thread 9 - Attempted to divide by zero.
+674 Result received from thread 11: Did nothing!
+675 Result received from thread 13: Did nothing!
+676 Result received from thread 12: Did nothing!
+677 Result received from thread 10: Did nothing!
+678 Result received from thread 9: Did nothing!
+679 Result received from thread 11: Did nothing!
+680 Result received from thread 13: Did nothing!
+681 Result received from thread 12: Did nothing!
+682 Result received from thread 10: Did nothing!
+683 Result received from thread 9: Did nothing!
+684 Result received from thread 11: Did nothing!
+685 Result received from thread 13: Did nothing!
+686 An exception occurred on thread 13 - Attempted to divide by zero.
+687 Result received from thread 12: Did nothing!
+688 An exception occurred on thread 12 - Attempted to divide by zero.
+689 Result received from thread 10: Did nothing!
+690 Result received from thread 11: Did nothing!
+691 An exception occurred on thread 11 - Attempted to divide by zero.
+692 Result received from thread 12: Did nothing!
+693 Result received from thread 13: Did nothing!
+694 Result received from thread 10: Did nothing!
+695 An exception occurred on thread 10 - Attempted to divide by zero.
+696 Result received from thread 11: Did nothing!
+697 Result received from thread 12: Did nothing!
+698 Result received from thread 13: Did nothing!
+699 Result received from thread 10: Did nothing!
+700 Result received from thread 11: Did nothing!
+701 Result received from thread 12: Did nothing!
+702 Result received from thread 13: Did nothing!
+703 Result received from thread 10: Did nothing!
+704 Result received from thread 11: Did nothing!
+705 Result received from thread 12: Did nothing!
+706 Result received from thread 13: Did nothing!
+707 An exception occurred on thread 13 - Attempted to divide by zero.
+708 An exception occurred on thread 12 - Attempted to divide by zero.
+709 Result received from thread 10: Did nothing!
+710 Result received from thread 11: Did nothing!
+711 An exception occurred on thread 11 - Attempted to divide by zero.
+712 Result received from thread 12: Did nothing!
+713 Result received from thread 13: Did nothing!
+714 Result received from thread 10: Did nothing!
+715 Result received from thread 11: Did nothing!
+716 Result received from thread 12: Did nothing!
+717 Result received from thread 13: Did nothing!
+718 Result received from thread 11: Did nothing!
+719 Result received from thread 12: Did nothing!
+720 Result received from thread 13: Did nothing!
+721 Result received from thread 11: Did nothing!
+722 Result received from thread 12: Did nothing!
+723 An exception occurred on thread 12 - Attempted to divide by zero.
+724 Result received from thread 13: Did nothing!
+725 An exception occurred on thread 13 - Attempted to divide by zero.
+726 Result received from thread 11: Did nothing!
+727 An exception occurred on thread 11 - Attempted to divide by zero.
+728 Result received from thread 12: Did nothing!
+729 Result received from thread 13: Did nothing!
+730 Result received from thread 11: Did nothing!
+731 Result received from thread 12: Did nothing!
+732 Result received from thread 13: Did nothing!
+733 Result received from thread 12: Did nothing!
+734 Result received from thread 13: Did nothing!
+735 Result received from thread 12: Did nothing!
+736 An exception occurred on thread 12 - Attempted to divide by zero.
+737 Result received from thread 13: Did nothing!
+738 An exception occurred on thread 13 - Attempted to divide by zero.
+739 Result received from thread 12: Did nothing!
+740 Result received from thread 13: Did nothing!
+741 Result received from thread 12: Did nothing!
+742 Result received from thread 13: Did nothing!
+743 Result received from thread 13: Did nothing!
+744 Result received from thread 13: Did nothing!
+745 An exception occurred on thread 13 - Attempted to divide by zero.
+746 Result received from thread 13: Did nothing!
+747 Result received from thread 13: Did nothing!
+748 Result received from thread 13: Did nothing!
+749 Result received from thread 13: Did nothing!
+Ended at 4/1/2008 12:41:28 PM
